@@ -1,1 +1,1 @@
-# Pr-ctica.-An-lisis-dels-materials
+# Pràctica.Anàlisis dels materials
